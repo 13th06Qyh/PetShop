@@ -1,0 +1,6 @@
+/* public/css/custom.css */
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
